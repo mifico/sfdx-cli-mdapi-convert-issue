@@ -1,0 +1,7 @@
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <version>55.0</version>
+  <types>
+    <members>SASetupDef1651705420679</members>
+    <name>ServiceAISetupDefinition</name>
+  </types>
+</Package>
